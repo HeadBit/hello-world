@@ -1,4 +1,4 @@
 # hello-world
-##tuorial project
+Tuorial project.
 
 This is tutorial project for GitHub.
